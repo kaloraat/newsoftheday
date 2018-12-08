@@ -1,22 +1,11 @@
-# frontend
+## A Random News of the Day App
 
-> My grand Nuxt.js project
+## Live Demo
 
-## Build Setup
+https://kaloraat.github.io/newsoftheday/
 
-``` bash
-# install dependencies
-$ yarn install
+## App Screenshots
 
-# serve with hot reload at localhost:3000
-$ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+<img src="/src/app.png" alt="A Random News of the Day App" />
+<img src="/src/app2.png" alt="A Random News of the Day App" />
+<img src="/src/app3.png" alt="A Random News of the Day App" />
